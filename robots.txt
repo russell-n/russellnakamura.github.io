@@ -1,0 +1,4 @@
+Sitemap: https://russellnakamura.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: russellnakamura.github.io
