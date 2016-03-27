@@ -29,11 +29,6 @@ Commands
 
 These were command-line tools built to help run tests and examine their data.
 
-AP Command
-~~~~~~~~~~
-
-The `AP Command <https://russellnakamura.github.io/apcommand>`_ was created so that users could query and configure wireless access points. The intended user is someone who wants to write a simple shell-script that requires configuring an access point without knowing the underlying means to control the access point. Two specific access points were targeted, neither of which is commercially availabale, but hopefully the methods used to control the access points can be re-used.
-
 Iperf Lexer
 ~~~~~~~~~~~
 
