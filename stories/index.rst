@@ -39,3 +39,18 @@ Iperf Lexer
 
 The `Iperf Lexer <https://russellnakamura.github.io/iperflexer>`_ was written to extract time-series data from the default (human-readable) `iperf <https://en.wikipedia.org/wiki/Iperf>`_ output. It used with iperf 2 and hasn't yet been tested with iperf 3. While iperf has a clever use of unix commands could achieve a similar result, this was meant to be used either at the command line or integrated into the testing code. Additionally, although iperf has a csv-format, some hardware being tested had versions whose csv-format didn't function correctly and testers preferred being able to see the iperf output while the tests were run.
 
+Course Work
+-----------
+
+These are things that I created while taking online courses.
+
+Boston Housing
+~~~~~~~~~~~~~~
+
+The `Boston Housing Project <https://necromuralist.github.io/boston_housing>`_  was the initial project for the Udacity Machine Learning nanodegree. It's meant to be an introduction to machine learning with scikit-learn.
+
+Student Intervention
+~~~~~~~~~~~~~~~~~~~~
+
+The `Student Intervention Project <https://necromuralist.github.io/boston_housing>`_ was the second project for the Udacity Machine Learning nanodegree. Its goal is to create a model that predicts the likelihood of a student passing his or her final exam based on various attributes related to the student.
+

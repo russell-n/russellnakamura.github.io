@@ -10,3 +10,5 @@ dist/
 .venv
 .ipynb_checkpoints
 output/
+.doit.db
+__pycache__
