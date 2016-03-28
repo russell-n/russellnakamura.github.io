@@ -52,5 +52,5 @@ The `Boston Housing Project <https://necromuralist.github.io/boston_housing>`_  
 Student Intervention
 ~~~~~~~~~~~~~~~~~~~~
 
-The `Student Intervention Project <https://necromuralist.github.io/boston_housing>`_ was the second project for the Udacity Machine Learning nanodegree. Its goal is to create a model that predicts the likelihood of a student passing his or her final exam based on various attributes related to the student.
+The `Student Intervention Project <https://necromuralist.github.io/student_intervention>`_ was the second project for the Udacity Machine Learning nanodegree. Its goal is to create a model that predicts the likelihood of a student passing his or her final exam based on various attributes related to the student.
 
