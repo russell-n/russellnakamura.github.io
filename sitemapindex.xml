@@ -6,11 +6,19 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://russellnakamura.github.io/categories/cat_howto.xml</loc>
+  <lastmod>2016-03-29T20:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://russellnakamura.github.io/categories/git-hg-errors.xml</loc>
+  <lastmod>2016-03-29T20:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://russellnakamura.github.io/rss.xml</loc>
-  <lastmod>2016-03-27T01:17:00Z</lastmod>
+  <lastmod>2016-03-29T20:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://russellnakamura.github.io/sitemap.xml</loc>
-  <lastmod>2016-03-27T23:36:00Z</lastmod>
+  <lastmod>2016-03-29T20:36:00Z</lastmod>
  </sitemap>
 </sitemapindex>

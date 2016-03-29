@@ -7,18 +7,34 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://russellnakamura.github.io/</loc>
-  <lastmod>2016-03-27T01:17:00Z</lastmod>
+  <lastmod>2016-03-29T20:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://russellnakamura.github.io/2016/</loc>
+  <lastmod>2016-03-29T20:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://russellnakamura.github.io/archive.html</loc>
-  <lastmod>2016-03-27T01:17:00Z</lastmod>
+  <lastmod>2016-03-29T20:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://russellnakamura.github.io/categories/</loc>
-  <lastmod>2016-03-27T01:17:00Z</lastmod>
+  <lastmod>2016-03-29T20:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://russellnakamura.github.io/categories/cat_howto/</loc>
+  <lastmod>2016-03-29T20:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://russellnakamura.github.io/categories/git-hg-errors/</loc>
+  <lastmod>2016-03-29T20:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://russellnakamura.github.io/posts/</loc>
-  <lastmod>2016-03-27T01:17:00Z</lastmod>
+  <lastmod>2016-03-29T20:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://russellnakamura.github.io/posts/fixing-a-hasdotgit-error-converting-hg-to-git/</loc>
+  <lastmod>2016-03-29T20:36:00Z</lastmod>
  </url>
 </urlset>

@@ -92,6 +92,10 @@ These were written to test the performance of consumer-devices (primarily Androi
 <h3>The Old APE</h3>
 <p>The <a class="reference external" href="https://russellnakamura.github.io/oldape">Old APE</a> was an earlier testing framework which was primarily used to test the wireless performance of various consumer devices in an over the air environment. Various external controllers were used to simulate changing environments (e.g. networked power supplies to switch access points on and off and a turntable to set the angle of the device relative to the access points) so the <em>Old APE</em> used a tree-based parameter system. So for each angle of the turntable you could enable a sequence of wireless access points and for each access points you could run different kinds of testing (primarily iperf network goodput). A request was made to be able to use arbitrary parameters (e.g. running some angles with one access point, some with three, etc.) which was difficult to implement with the recursive tree, precipitating the start of the APE (above).</p>
 </div>
+<div class="section" id="the-tuna">
+<h3>The Tuna</h3>
+<p>The <a class="reference external" href="https://russellnakamura.github.io/thetuna">Tuna</a> was an optimizer that tried to find the best placement for a device being tested.</p>
+</div>
 <div class="section" id="camera-obscura">
 <h3>Camera Obscura</h3>
 <p>The <a class="reference external" href="https://russellnakamura.github.io/cameraobscura">Camera Obscura</a> was code written for testing in an anechoic chamber. It's missing the attenuator control code so isn't useful at the moment, but should still run.</p>
