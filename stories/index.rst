@@ -24,6 +24,11 @@ The Old APE
 
 The `Old APE <https://russellnakamura.github.io/oldape>`_ was an earlier testing framework which was primarily used to test the wireless performance of various consumer devices in an over the air environment. Various external controllers were used to simulate changing environments (e.g. networked power supplies to switch access points on and off and a turntable to set the angle of the device relative to the access points) so the *Old APE* used a tree-based parameter system. So for each angle of the turntable you could enable a sequence of wireless access points and for each access points you could run different kinds of testing (primarily iperf network goodput). A request was made to be able to use arbitrary parameters (e.g. running some angles with one access point, some with three, etc.) which was difficult to implement with the recursive tree, precipitating the start of the APE (above).
 
+Camera Obscura
+~~~~~~~~~~~~~~
+
+The `Camera Obscura <https://russellnakamura.github.io/cameraobscura>`_ was code written for testing in an anechoic chamber. It's missing the attenuator control code so isn't useful at the moment, but should still run.
+
 Commands
 --------
 
